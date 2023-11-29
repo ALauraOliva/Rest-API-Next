@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-
+//building
 const allowedOrigins =
   process.env.NODE_ENV === "production"
     ? ["https://www.yoursite.com", "https://yoursite.com"]
