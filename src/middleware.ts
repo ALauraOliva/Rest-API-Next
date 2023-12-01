@@ -18,8 +18,8 @@ export function middleware(request: Request) {
       },
     });
   }
-
-  console.log("Middleware!");
+  //test
+  console.log("Trying new Middleware!!");
 
   console.log(request.method);
   console.log(request.url);
